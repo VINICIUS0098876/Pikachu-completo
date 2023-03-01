@@ -87,4 +87,14 @@ footer{
     justify-content: center;
     align-items: end;
     font-size: 30px;
+    font-family: 'Righteous', cursive;
+
+}
+.pikachu-image{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
+
 }
